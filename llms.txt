@@ -1,0 +1,44 @@
+# AHOS, Advanced Hybrid Online Systems
+
+> AHOS is a digital product studio in Beirut, Lebanon. We design and build websites, online stores, mobile apps, custom software and AI automations for founders in Lebanon, the Gulf, Europe and the US.
+
+Based in Beirut, Lebanon, since 2023. Working with clients in Lebanon, the Gulf, Europe and the US, in English, Arabic, French.
+Every project gets a fixed quote in writing after a free 30-minute call. Clients own all code, designs and content. 30-day warranty on every build.
+
+## Services and starting prices
+- [Web development](https://ahos.xyz/web-development/): Fast, search-ready websites that turn visitors into enquiries. From $300, 1 to 4 weeks.
+- [Online stores](https://ahos.xyz/ecommerce-development/): Shopify or custom stores with cash on delivery and WhatsApp ordering. From $500, 2 to 6 weeks.
+- [Mobile apps](https://ahos.xyz/mobile-app-development/): iOS and Android apps people keep on their home screen. From $1,000, 6 to 12 weeks.
+- [Custom software](https://ahos.xyz/custom-software/): Dashboards, platforms and internal tools shaped around how you work. From $1,500, 6 to 16 weeks.
+- [AI and automation](https://ahos.xyz/ai-development/): Assistants and WhatsApp flows that take repetitive work off your team. From $500, scoped on the call.
+- [Interface and brand design](https://ahos.xyz/ui-ux-design/): Interfaces, identities and design systems that look like you meant it. From $200, 1 to 4 weeks.
+- [Web3 and blockchain](https://ahos.xyz/web3/): Smart contracts, dapps and launches with a Web2-quality interface. From $2,500, scoped on the call.
+
+## Selected work
+- Threads Activewear (Online store, Beirut): Original Nike, adidas, On and The North Face, with cash on delivery anywhere in Lebanon in one tap. https://threadsactivewear.com
+- SpeeAligner (Website and case portal, Lebanon): Clear aligner planning for dental clinics: treatment plans, case submission and a 24-hour turnaround. https://www.speealigner.com
+- Jul's Auto Repair (Website, Raynham, Massachusetts): A local service site built around one action: call the shop or get directions in one tap. https://julsauto.com
+- I Do Taxi (Website and iOS app, Beirut): Lebanon's 24/7 taxi service, bookable by app, phone or WhatsApp, with live dispatch behind it. https://www.idotaxi.net
+
+## Pages
+- [Home](https://ahos.xyz/): AHOS is a digital product studio in Beirut, Lebanon. We design and build websites, online stores, mobile apps and custom software for founders in Lebanon, the Gulf, Europe and the US. Fixed quotes, and you own the code.
+- [Services](https://ahos.xyz/services/): Everything AHOS designs and builds in Beirut: websites, online stores, mobile apps, custom software, AI automation, interface design and Web3, each with a start-from price.
+- [Web development](https://ahos.xyz/web-development/): AHOS designs and builds custom websites in Beirut, Lebanon: fast, search-ready and easy to update. Fixed quote, and you own the code. Serving the Gulf, Europe and the US.
+- [Online stores](https://ahos.xyz/ecommerce-development/): AHOS builds online stores in Lebanon on Shopify, WooCommerce and custom platforms, with cash on delivery, WhatsApp ordering and fast checkout. Fixed quote, full ownership.
+- [Mobile apps](https://ahos.xyz/mobile-app-development/): AHOS designs and builds iOS, Android and cross-platform apps in Beirut, from first drawing to the App Store. Fixed quote, full code ownership.
+- [Custom software](https://ahos.xyz/custom-software/): AHOS builds SaaS platforms, dashboards, APIs and internal tools in Beirut, shaped around how your business runs. Fixed quote, milestones, full ownership.
+- [AI and automation](https://ahos.xyz/ai-development/): AHOS builds AI assistants, WhatsApp flows and workflow automation in Beirut that answer customers, take orders and save your team hours every week.
+- [Interface and brand design](https://ahos.xyz/ui-ux-design/): AHOS designs interfaces, brand identities and design systems in Beirut, from research to production-ready Figma files your developers can build from.
+- [Web3 and blockchain](https://ahos.xyz/web3/): AHOS builds audited smart contracts, dapps, token and NFT launches and DeFi interfaces in Beirut, with an interface people actually understand.
+- [SpeeAligner](https://ahos.xyz/work/speealigner/): SpeeAligner plans clear aligner treatments for dental clinics. We designed and built the site clinics use to understand the service and send their first case. Designed and built by AHOS in Beirut.
+- [I Do Taxi](https://ahos.xyz/work/ido-taxi/): I Do Taxi runs a 24/7 taxi service in Beirut. We took it from an idea to a live iOS app and a website, with booking, dispatch and payments working together. Designed and built by AHOS in Beirut.
+- [Pricing](https://ahos.xyz/pricing/): AHOS pricing: design from $200, websites from $300, stores and AI from $500, apps from $1,000, custom software from $1,500. Every project gets a fixed quote in writing.
+- [FAQ](https://ahos.xyz/faq/): Straight answers about working with AHOS: timelines, fixed pricing, code ownership, support after launch and working with clients outside Lebanon.
+- [Contact](https://ahos.xyz/contact/): Tell AHOS what you are building. A real person replies within 24 hours with a plan and a fixed quote. WhatsApp, email or a 30-minute call.
+- [Careers](https://ahos.xyz/careers/): AHOS hires rarely and well. Developers, designers and engineers who would rather own a hard problem than be handed an easy one.
+- [ARIA](https://ahos.xyz/aria-ai/): Talk to ARIA, the AI project advisor AHOS designed and built. Describe what you want to make and get honest guidance on scope, timeline and next steps.
+
+## Contact
+- Email: info@ahos.xyz
+- WhatsApp: +961 70 165 601 (https://wa.me/96170165601)
+- First reply within 24 hours
